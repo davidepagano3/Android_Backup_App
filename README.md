@@ -39,4 +39,4 @@ Let me know if you’d like it in markdown or want to add build/setup instructio
 - https://developer.android.com/ndk/guides/application_mk
 
 ### Me
-Student of the Milano Politecnico School of Design, with a passion for art and design.
+Student of the Milano Politecnico School of Design, with passions for art and design.
