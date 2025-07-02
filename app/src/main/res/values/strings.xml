@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GIUSEPPE_BACKUP_APP</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="arguments">Arguments</string>
+    <string name="arguments_hint">whitespace separated command arguments</string>
+    <string name="known_hosts">Known host keys</string>
+    <string name="known_hosts_hint">ssh host keys, one per line</string>
+    <string name="standard_error">Standard error</string>
+    <string name="standard_error_desc">Output written to the standard error stream</string>
+    <string name="standard_output">Standard output</string>
+    <string name="standard_output_desc">Output written to the standard output stream</string>
+    <string name="key_type">Key type</string>
+    <string name="key_size">Key size (bits)</string>
+    <string name="overwrite_key">Overwrite existing key</string>
+    <string name="key_exists">Private key already exists</string>
+    <string name="public_key">Public key</string>
+    <string name="public_key_desc">The public key in OpenSSH format</string>
+    <string name="no_private_key">Private key was not found.  Run the \'Generate Private Key\' action first.</string>
+    <string name="channel_updates">Updates</string>
+    <string name="update_available">Update available</string>
+    <string name="update_installed">Update installed</string>
+    <string name="update_notif_text">Version %1$s of Rsync for Tasker is available</string>
+    <string name="update_summary">Version %1$s of Rsync for Tasker has been released.</string>
+    <string name="updated_summary">The latest version of Rsync for Tasker is installed.</string>
+    <string name="update_choices">Choose \'Update\' to download and install the latest version or \'More Info\' to see what has changed in this release.</string>
+    <string name="update_downloading">Downloading update…</string>
+    <string name="update">Update</string>
+    <string name="more_info">More Info</string>
+    <string name="check_for_updates">Check for app updates</string>
+    <string name="check_for_updates_info">When enabled, check for updates in the background when this action is run (if the app last checked more than a week ago).  A notification is shown if an update is available.</string>
+    <string name="process_killed_timeout">Process killed due to impending timeout</string>
+    <string name="missing_legacy_storage_permission">Rsync for Tasker is missing the \'Storage\' permission needed to access \'%1$s\'.  This can usually be found under Apps &amp; notifications -> Permission manager -> Storage.</string>
+    <string name="missing_storage_permission">Rsync for Tasker is missing the \'All files access\' permission needed to access \'%1$s\'.  This can usually be found under Apps -> Special app access -> All files access.</string>
+
+</resources>
