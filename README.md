@@ -23,7 +23,7 @@
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/31e961a2-e998-48e0-bdac-11c6d63f0df3)
+![image](https://github.com/user-attachments/assets/b782ec4d-64a9-4747-81a1-e9de5f1018e7)
 
 ## License
 
